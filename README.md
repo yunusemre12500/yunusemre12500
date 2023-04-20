@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yunus!
+- 👀 I’m interested in Networking and programing.
+- 🌱 I’m currently learning Rust 🦀.
+- 📫 How to reach me yunusemrealtiner1@gmail.com.
