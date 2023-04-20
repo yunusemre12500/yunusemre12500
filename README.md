@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunus!
 - 👀 I’m interested in Networking and programing.
-- 🌱 I’m currently learning Rust 🦀.
+- 🌱 I’m currently learning Rust programing language 🦀.
 - 📫 How to reach me yunusemrealtiner1@gmail.com.
 
 <img
