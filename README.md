@@ -3,5 +3,8 @@
 - 🌱 I’m currently learning Rust 🦀.
 - 📫 How to reach me yunusemre12500@gmail.com.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yunusemre12500&number_format=long&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemre12500" />
+# Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yunusemre12500&cache_seconds=21600&hide_border=true&number_format=short&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunusemre12500&hide_border=true&layout=compact&theme=transparent)
+
