@@ -1,4 +1,4 @@
-# Skills 
+# My Skills 
 
 ### Programing Languages
 [![Programing Languages](https://skillicons.dev/icons?i=cs,go,js,ts,rust)](https://skillicons.dev)
