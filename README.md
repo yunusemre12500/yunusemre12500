@@ -1,7 +1,37 @@
-- 👋 Hi, I’m Yunus!
-- 👀 I’m interested in Networking and programing.
-- 🌱 I’m currently learning Rust 🦀.
-- 📫 How to reach me yunusemre12500@gmail.com.
+# Skills 
+
+### Programing Languages
+[![Programing Languages](https://skillicons.dev/icons?i=cs,go,js,ts,rust)](https://skillicons.dev)
+
+### Runtimes
+[![Runtimes](https://skillicons.dev/icons?i=bun,deno,nodejs)](https://skillicons.dev)
+
+### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=actix,dotnet,express,nestjs,rocket)](https://skillicons.dev)
+
+### Web Servers
+[![Web Servers](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
+### Monitoring
+[![Monitoring Tools](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)
+
+### Testing
+[![Testing Tools](https://skillicons.dev/icons?i=jest,postman)](https://skillicons.dev)
+
+### Databases
+[![Databases](https://skillicons.dev/icons?i=mongo,redis,postgres)](https://skillicons.dev)
+
+### Message Brokers
+[![Message Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
+
+### Hosting
+[![Hosting Platforms](https://skillicons.dev/icons?i=cloudflare,vercel)](https://skillicons.dev)
+
+### CI/CD
+[![CI/CD Tools](https://skillicons.dev/icons?i=githubactions,jenkins)](https://skillicons.dev)
+
+### DevOps
+[![DevOps Tools](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 # GitHub Stats
 
