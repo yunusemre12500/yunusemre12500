@@ -1,6 +1,6 @@
 # My Skills 
 
-### Programing Languages
+### Programming Languages
 [![Programing Languages](https://skillicons.dev/icons?i=cs,go,js,ts,rust)](https://skillicons.dev)
 
 ### Runtimes
@@ -12,7 +12,7 @@
 ### Web Servers
 [![Web Servers](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
 
-### Monitoring
+### Monitoring Tools
 [![Monitoring Tools](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)
 
 ### Testing
