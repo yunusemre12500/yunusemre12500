@@ -23,6 +23,7 @@
 <details>
   <summary>Monitoring Tools</summary>
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://thanos.io/icon-light.png" />
 </details>
 
 <details>
@@ -33,6 +34,11 @@
 <details>
   <summary>Databases</summary>
   <img src="https://skillicons.dev/icons?i=elasticsearch,mongo,redis,postgres" />
+</details>
+
+<details>
+  <summary>Storage</summary>
+  <img height="32px" width="32px" src="https://min.io/resources/img/logo.svg" />
 </details>
 
 <details>
