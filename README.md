@@ -1,6 +1,45 @@
 # My Skills 
 
 <details>
+  <summary>CI/CD</summary>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+</details>
+
+<details>
+  <summary>Databases</summary>
+  <img src="https://skillicons.dev/icons?i=cassandra,dynamodb,elasticsearch,mongo,mysql,postgres,redis" />
+</details>
+
+<details>
+  <summary>DevOps</summary>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</details>
+
+<details>
+  <summary>Frameworks</summary>
+  <img src="https://skillicons.dev/icons?i=actix,dotnet,express,nestjs,rocket" />
+</details>
+
+<details>
+  <summary>Hosting</summary>
+  <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
+</details>
+
+<details>
+  <summary>Message Brokers</summary>
+  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+</details>
+
+<details>
+  <summary>Monitoring Tools</summary>
+  <img height="48" src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png" width="48" />
+  <img height="48" src="https://github.com/grafana/mimir/blob/main/images/logo.png" width="48" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <img src="https://thanos.io/icon-light.png" />
+  <img height="48" src="https://github.com/open-telemetry/opentelemetry.io/blob/main/static/img/logos/opentelemetry-icon-color.png" width="48" />
+</details>
+
+<details>
   <summary>Programming Languages</summary>
   <img src="https://skillicons.dev/icons?i=cs,go,js,ts,rust" />
 </details>
@@ -11,19 +50,8 @@
 </details>
 
 <details>
-  <summary>Frameworks</summary>
-  <img src="https://skillicons.dev/icons?i=actix,dotnet,express,nestjs,rocket" />
-</details>
-
-<details>
-  <summary>Web Servers</summary>
-  <img src="https://skillicons.dev/icons?i=nginx" />
-</details>
-
-<details>
-  <summary>Monitoring Tools</summary>
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-  <img src="https://thanos.io/icon-light.png" />
+  <summary>Storage</summary>
+  <img height="32px" width="32px" src="https://min.io/resources/img/logo.svg" />
 </details>
 
 <details>
@@ -32,33 +60,13 @@
 </details>
 
 <details>
-  <summary>Databases</summary>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,mongo,redis,postgres" />
+  <summary>Web Servers</summary>
+  <img src="https://skillicons.dev/icons?i=nginx" />
 </details>
 
 <details>
-  <summary>Storage</summary>
-  <img height="32px" width="32px" src="https://min.io/resources/img/logo.svg" />
-</details>
-
-<details>
-  <summary>Message Brokers</summary>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
-</details>
-
-<details>
-  <summary>Hosting</summary>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
-</details>
-
-<details>
-  <summary>CI/CD</summary>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
-</details>
-
-<details>
-  <summary>DevOps</summary>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <summary>Miscellaneous</summary>
+  <img src="https://skillicons.dev/icons?i=arch,debian,firebase,git,github,gitlab,graphql,linux,markdown,nix,npm,ubuntu,pnpm,terraform,yarn,vscode,windows,workers" />
 </details>
 
 # GitHub Stats
