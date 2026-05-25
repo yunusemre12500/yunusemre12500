@@ -1,52 +1,66 @@
-# My Skills 
+# My Skills
 
 <details>
   <summary>CI/CD</summary>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+  <img alt="GitHub Actions" src="assets/github-actions.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Databases</summary>
-  <img src="https://skillicons.dev/icons?i=cassandra,dynamodb,elasticsearch,mongo,mysql,postgres,redis" />
+  <img alt="PostgreSQL" src="assets/postgresql.svg" height="48" width="48" />
+  <img alt="MongoDB" src="assets/mongodb.svg" height="48" width="48" />
+  <img alt="Apache Cassandra" src="assets/apache-cassandra.svg" height="48" width="48" />
+  <img alt="Redis" src="assets/redis.svg" height="48" width="48" />
+  <img alt="ElasticSearch" src="assets/elasticsearch.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>DevOps</summary>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img alt="Docker" src="assets/docker.svg" height="48" width="48" />
+  <img alt="Kubernetes" src="assets/kubernetes.svg" height="48" width="48" />
+  <img alt="Flux" src="assets/flux.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Frameworks</summary>
-  <img src="https://skillicons.dev/icons?i=actix,dotnet,express,nestjs,rocket" />
+  <img alt="Express" src="assets/express.svg" height="48" width="48" />
+  <img alt="Nest.JS" src="assets/nestjs.svg" height="48" width="48" />
+
 </details>
 
 <details>
   <summary>Hosting</summary>
-  <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
+  <img alt="Cloudflare" src="assets/cloudflare.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Message Brokers</summary>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" />
+  <img alt="Apache Kafka" src="assets/apache-kafka.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Monitoring Tools</summary>
-  <img height="48" src="https://github.com/grafana/loki/blob/main/docs/sources/logo.png" width="48" />
-  <img height="48" src="https://github.com/grafana/mimir/blob/main/images/logo.png" width="48" />
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
   <img src="https://thanos.io/icon-light.png" />
-  <img height="48" src="https://github.com/open-telemetry/opentelemetry.io/blob/main/static/img/logos/opentelemetry-icon-color.png" width="48" />
+  <img alt="Prometheus" src="assets/prometheus.svg" height="48" width="48" />
+  <img alt="OpenTelemetry" src="assets/opentelemetry.svg" height="48" width="48" />
+  <img alt="Grafana" src="assets/grafana.svg" height="48" width="48" />
+  <img alt="Grafana Loki" src="assets/grafana-loki.svg" height="48" width="48" />
+  <img alt="Grafana Tempo" src="assets/grafana-tempo.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Programming Languages</summary>
-  <img src="https://skillicons.dev/icons?i=cs,go,js,ts,rust" />
+  <img alt="Go" src="assets/go.svg" height="48" width="48" />
+  <img alt="JavaScript" src="assets/javascript.svg" height="48" width="48" />
+  <img alt="TypeScript" src="assets/typescript.svg" height="48" width="48" />
+  <img alt="Rust" src="assets/rust.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Runtimes</summary>
-  <img src="https://skillicons.dev/icons?i=bun,deno,nodejs" />
+  <img alt="Node.js" src="assets/nodejs.svg" height="48" width="48" />
+  <img alt="Deno" src="assets/deno.svg" height="48" width="48" />
+  <img alt="Bun" src="assets/bun.svg" height="48" width="48" />
 </details>
 
 <details>
@@ -56,17 +70,28 @@
 
 <details>
   <summary>Testing</summary>
-  <img src="https://skillicons.dev/icons?i=jest,postman" />
+  <img alt="Jest" src="assets/jest.svg" height="48" width="48" />
+  <img alt="Postman" src="assets/postman.svg" height="48" width="48" />
+  <img alt="Insomnia" src="assets/insomnia.svg" height="48" width="48" />
+
 </details>
 
 <details>
   <summary>Web Servers</summary>
-  <img src="https://skillicons.dev/icons?i=nginx" />
+  <img alt="NGINX" src="assets/nginx.svg" height="48" width="48" />
 </details>
 
 <details>
   <summary>Miscellaneous</summary>
-  <img src="https://skillicons.dev/icons?i=arch,debian,firebase,git,github,gitlab,graphql,linux,markdown,nix,npm,ubuntu,pnpm,terraform,yarn,vscode,windows,workers" />
+  <img alt="ESLint" src="assets/eslint.svg" height="48" width="48" />
+  <img alt="AWS" src="assets/aws.svg" height="48" width="48" />
+  <img alt="Arch Linux" src="assets/arch-linux.svg" height="48" width="48" />
+  <img alt="Debian" src="assets/debian.svg" height="48" width="48" />
+  <img alt="NixOS" src="assets/nixos.svg" height="48" width="48" />
+  <img alt="Git" src="assets/git.svg" height="48" width="48" />
+  <img alt="Linux" src="assets/linux.svg" height="48" width="48" />
+  <img alt="Terraform" src="assets/terraform.svg" height="48" width="48" />
+  <img alt="ACloudflare Workers" src="assets/cloudflare-workers.svg" height="48" width="48" />
 </details>
 
 # GitHub Stats
